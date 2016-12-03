@@ -1,0 +1,13 @@
+body{
+	background-color: plum;
+	border: 1px solid purple;
+	padding: 30px;
+}
+
+header, h2{
+	text-align: center;
+}
+
+.headshot{
+	margin-top: 20px;
+}
